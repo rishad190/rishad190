@@ -1,4 +1,4 @@
-<img title="" src="https://avatars.githubusercontent.com/u/66918654?v=4" alt="Saad Hasan's Github Banner" >
+<img title="" src="https://avatars.githubusercontent.com/u/66918654?v=4" alt="Md Rishad Khan's Github Banner" >
 
 # Hey There 👋
 
@@ -45,7 +45,8 @@ Want to know more about me ? [**Check out my Portfolio.**](https://rishadprotfol
   </td>
 
   <td>
-    <a href="https://app.daily.dev/saadh393"><img src="https://api.daily.dev/devcards/52a2884137c14895ae917896eb442c6d.png?r=yxj" width="400" alt="Saad Hasan's Dev Card"/></a>
+    
+    <a href="https://app.daily.dev/rishad19"><img src="https://api.daily.dev/devcards/312f93d5655a484eba2cbe5937373813.png?r=x4c" width="400" alt="Rishad khan's Dev Card"/></a>
   </td>
 
   </tr>
