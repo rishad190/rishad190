@@ -29,11 +29,11 @@ Want to know more about me ? [**Check out my Portfolio.**](https://rishadprotfol
 <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/sass.png" title="" alt="sass.png" width="30" /> 
 <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/express.png" title="" alt="express.png" width="30" /> 
 <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/firebase.png" title="" alt="firebase.png" width="30" />
-<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/android.png" title="" alt="android.png" width="30" /> 
+
 <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/git.png" title="" alt="git.png" width="30" /> 
 <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/figma.png" title="" alt="figma.png" width="30" /> 
 <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/photoshop%20(1).png" title="" alt="photoshop (1).png" width="30" /> 
-<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/illustrator.png" alt="illustrator.png" width="30" />
+
 <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/xd.png" title="" alt="xd.png" width="30" /></div>
 
 <table border="0">
@@ -46,7 +46,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://rishadprotfol
 
   <td>
     
-    <a href="https://app.daily.dev/rishad19"><img src="https://api.daily.dev/devcards/312f93d5655a484eba2cbe5937373813.png?r=x4c" width="400" alt="Rishad khan's Dev Card"/></a>
+   <a href="https://app.daily.dev/rishad19"><img src="https://api.daily.dev/devcards/312f93d5655a484eba2cbe5937373813.png?r=nbl" width="400" alt="Md Rishad khan's Dev Card"/></a>
   </td>
 
   </tr>
